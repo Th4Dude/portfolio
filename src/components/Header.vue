@@ -6,7 +6,7 @@ export default {
 
 <template>
 
-    <div class="d-flex justify-content-center">
+    <div class="d-flex justify-content-center py-5">
         <div class="px-4"><h3><span>01</span>.About</h3></div>
         <div class="px-4"><h3><span>02</span>.Projects</h3></div>
         <div class="px-4"><h3><span>03</span>.Resume</h3></div>
