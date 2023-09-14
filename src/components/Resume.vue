@@ -5,13 +5,13 @@ export default {
 </script>
 
 <template>
-    <!-- Projects -->
+    <!-- Resume -->
     <div class="d-flex justify-content-center">
         <div>
             <h1>My CV</h1>
         </div>
     </div>
-    <!-- Projects -->
+    <!-- Resume -->
 </template>
 
 <style lang="scss" scoped>

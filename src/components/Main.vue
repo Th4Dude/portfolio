@@ -1,5 +1,6 @@
 
 <script>
+
 import Projects from './Projects.vue';
 import Resume from './Resume.vue';
 export default {
@@ -14,10 +15,9 @@ export default {
 <template>
     <div class="d-flex justify-content-center">
         <div style="max-width: 75rem;">
-            <h3>Prova</h3>
+            <h3>Hi, My name is</h3>
             <h1>Maurizio Gallotti</h1>
-            <h3>Lorem ipsum dolor, siesse ipsa ipsum delectus, ducimus ratione temporibus animi dolor quidem tempore magni
-                cupiditate inventore eius dolorum aperiam unde ullam.</h3>
+            <h3>"I'm a Junior Web Developer with a passion for continuous learning and a strong desire to constantly challenge myself. I am determined to enhance my skills and actively contribute to exciting projects, offering creative and innovative solutions."</h3>
         </div>
     </div>
     <Projects/>
