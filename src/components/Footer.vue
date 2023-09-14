@@ -1,13 +1,12 @@
-
 <script>
 export default {
-    name: 'Hello'
+    name: 'Footer'
 }
 </script>
 
 <template>
     <div>
-        <h1 class="text-center">Hello <span>Classe 89</span></h1>
+        <h1 class="text-center">Hello <span>footer</span></h1>
     </div>
 </template>
 
